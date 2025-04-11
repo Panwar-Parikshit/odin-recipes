@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+p strong {
+    color: #00ff00;
+}
+.para{
+    color: hsl(120, 39%, 29%);
+    font-family: Georgia,"Times New Roman",Arial, Helvetica, sans-serif,;
+}
+.head{
+    color: rgb(128, 0, 128);
+}
+#title{
+    color: rgb(100, 0, 0);
+}
+* {
+    outline: 2px solid red;
+  }
+  
