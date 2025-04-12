@@ -1,8 +1,11 @@
 h1{
-    color: red;
+    color: #D35400;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, Arial;
 }
 p strong {
-    color: #00ff00;
+    color: #ff0040;
 }
 .para{
     color: hsl(120, 39%, 29%);
@@ -17,4 +20,15 @@ p strong {
 * {
     outline: 2px solid red;
   }
+.ind{
+    color: #2E8B57;
+}
+span a {
+    color: hsla(22, 100%, 50%, 0.983);
+    font-weight: bold;
+}
+.home{
+    padding: 50px;
+    display: inline-block;
+}
   
